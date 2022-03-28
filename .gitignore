@@ -1,0 +1,9 @@
+*.local
+Win32/
+__astcache/
+__history/
+__recovery/
+Win32/Release/*.obj
+Win32/Release/*.map
+Win32/Release/*.tds
+Win32/Release/*.pch
